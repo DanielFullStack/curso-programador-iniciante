@@ -52,7 +52,6 @@ Bem-vindo ao curso completo de Lógica de Programação, Frontend e Backend! Est
    - Fluxo de Trabalho com Git
    - Branches, Commits e Merge
    - Colaboração com GitHub
-   - GitHub Actions para CI/CD
 
 8. [Ambiente de Desenvolvimento com Visual Studio Code (VSCode)](#ambiente-de-desenvolvimento-com-visual-studio-code-vscode)
    - Configuração do VSCode
