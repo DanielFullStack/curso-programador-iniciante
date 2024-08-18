@@ -69,6 +69,6 @@ Bem-vindo ao curso completo de Lógica de Programação, Frontend e Backend! Est
 10. [Projeto Final - Desenvolvendo uma Aplicação Web Completa](https://github.com/DanielFullStack/curso-programador-iniciante/blob/main/10.%20Projeto%20Final%20-%20Desenvolvendo%20uma%20Aplicacao%20Web%20Completa.md)
     - Definição do Projeto
     - Desenvolvendo o Frontend com React.js e TypeScript
-    - Construindo o Backend com NestJS e/ou Spring Boot
+    - Construindo o Backend com NestJS (BFF) e Spring Boot (API)
     - Integração Frontend e Backend
     - Versionamento e Deploy com GitHub
