@@ -4,7 +4,7 @@ Bem-vindo ao curso completo de Lógica de Programação, Frontend e Backend! Est
 
 ## Sumário
 
-1. [Introdução à Lógica de Programação](#introducao-a-logica-de-programacao)
+1. [Introdução à Lógica de Programação](https://github.com/DanielFullStack/curso-programador-iniciante/blob/main/1.%20Introdu%C3%A7%C3%A3o%20%C3%A0%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.md)
    - O que é Lógica de Programação?
    - Algoritmos
    - Tipos de Dados
