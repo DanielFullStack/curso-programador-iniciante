@@ -16,7 +16,7 @@ Bem-vindo ao curso completo de Lógica de Programação, Frontend e Backend! Est
    - O que é Frontend e Backend?
    - Ferramentas e Tecnologias
 
-3. [JavaScript e TypeScript - Fundamentos e Boas Práticas](#javascript-e-typescript-fundamentos-e-boas-praticas)
+3. [JavaScript e TypeScript - Fundamentos e Boas Práticas](https://github.com/DanielFullStack/curso-programador-iniciante/blob/main/3.%20JavaScript%20e%20TypeScript%20-%20Fundamentos%20e%20Boas%20Pr%C3%A1ticas.md)
    - Introdução ao JavaScript
    - Fundamentos do TypeScript
    - Tipagem Estática e Interfaces
