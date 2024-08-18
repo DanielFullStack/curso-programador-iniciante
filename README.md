@@ -31,7 +31,7 @@ Bem-vindo ao curso completo de Lógica de Programação, Frontend e Backend! Est
    - Gerenciamento de Estado com Context API e Redux
    - Roteamento com React Router
 
-5. [Backend com Node.js e NestJS](https://github.com/DanielFullStack/curso-programador-iniciante/blob/main/04.%20React.js%20-%20Desenvolvendo%20Interfaces%20Modernas.md)
+5. [Backend com Node.js e NestJS](https://github.com/DanielFullStack/curso-programador-iniciante/blob/main/05.%20Backend%20com%20Node.js%20e%20NestJS.md)
    - Introdução ao Node.js
    - Fundamentos do NestJS
    - Criação de APIs RESTful
