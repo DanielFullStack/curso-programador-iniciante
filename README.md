@@ -20,10 +20,10 @@ Bem-vindo ao curso completo de Lógica de Programação, Frontend e Backend! Est
    - Introdução ao JavaScript
    - Fundamentos do TypeScript
    - Tipagem Estática e Interfaces
-   - Classes e Modulos em TypeScript
+   - Classes e Módulos em TypeScript
    - Diferenças e Integração entre JavaScript e TypeScript
 
-4. [React.js - Desenvolvendo Interfaces Modernas](#reactjs-desenvolvendo-interfaces-modernas)
+4. [React.js - Desenvolvendo Interfaces Modernas](https://github.com/DanielFullStack/curso-programador-iniciante/blob/main/4.%20React.js%20-%20Desenvolvendo%20Interfaces%20Modernas.md)
    - Introdução ao React.js
    - Componentes e Props
    - Estado e Ciclo de Vida
@@ -31,7 +31,7 @@ Bem-vindo ao curso completo de Lógica de Programação, Frontend e Backend! Est
    - Gerenciamento de Estado com Context API e Redux
    - Roteamento com React Router
 
-5. [Backend com Node.js e NestJS](#backend-com-nodejs-e-nestjs)
+5. [Backend com Node.js e NestJS](https://github.com/DanielFullStack/curso-programador-iniciante/blob/main/5.%20Backend%20com%20Node.js%20e%20NestJS.md)
    - Introdução ao Node.js
    - Fundamentos do NestJS
    - Criação de APIs RESTful
@@ -39,7 +39,7 @@ Bem-vindo ao curso completo de Lógica de Programação, Frontend e Backend! Est
    - Autenticação e Autorização
    - Testes e Documentação de APIs
 
-6. [Desenvolvimento Backend com Java e Spring Boot](#desenvolvimento-backend-com-java-e-spring-boot)
+6. [Desenvolvimento Backend com Java e Spring Boot](https://github.com/DanielFullStack/curso-programador-iniciante/blob/main/6.%20Desenvolvimento%20Backend%20com%20Java%20e%20Spring%20Boot.md)
    - Introdução ao Spring Boot
    - Configuração de Projetos Spring Boot
    - Criação de APIs RESTful com Spring Boot
@@ -47,22 +47,28 @@ Bem-vindo ao curso completo de Lógica de Programação, Frontend e Backend! Est
    - Segurança com Spring Security
    - Deploy e Monitoramento de Aplicações Java
 
-7. [Controle de Versão com Git e GitHub](#controle-de-versao-com-git-e-github)
+7. [Controle de Versão com Git e GitHub](https://github.com/DanielFullStack/curso-programador-iniciante/blob/main/7.%20Controle%20de%20Vers%C3%A3o%20com%20Git%20e%20GitHub.md)
    - Introdução ao Git
    - Fluxo de Trabalho com Git
    - Branches, Commits e Merge
    - Colaboração com GitHub
+   - GitHub Actions para CI/CD
 
-8. [Ambiente de Desenvolvimento com Visual Studio Code (VSCode)](#ambiente-de-desenvolvimento-com-visual-studio-code-vscode)
+8. [Ambiente de Desenvolvimento com Visual Studio Code (VSCode)](https://github.com/DanielFullStack/curso-programador-iniciante/blob/main/8.%20Ambiente%20de%20Desenvolvimento%20com%20Visual%20Studio%20Code%20(VSCode).md)
    - Configuração do VSCode
    - Extensões Essenciais
    - Debugging e Linters
    - Integração com Git
    - Produtividade com Snippets e Atalhos
 
-9. [Projeto Final - Desenvolvendo uma Aplicação Web Completa](#projeto-final-desenvolvendo-uma-aplicacao-web-completa)
-   - Definição do Projeto
-   - Desenvolvendo o Frontend com React.js e TypeScript
-   - Construindo o Backend com NestJS e/ou Spring Boot
-   - Integração Frontend e Backend
-   - Versionamento e Deploy com GitHub
+9. [Introdução ao BFF (Backend for Frontend)](https://github.com/DanielFullStack/curso-programador-iniciante/blob/main/9.%20Introdu%C3%A7%C3%A3o%20ao%20BFF%20(Backend%20for%20Frontend).md)
+   - O que é BFF?
+   - Papel do BFF na Arquitetura de Sistemas
+   - Exemplos de Implementações de BFF
+
+10. [Projeto Final - Desenvolvendo uma Aplicação Web Completa](https://github.com/DanielFullStack/curso-programador-iniciante/blob/main/10.%20Projeto%20Final%20-%20Desenvolvendo%20uma%20Aplicacao%20Web%20Completa.md)
+    - Definição do Projeto
+    - Desenvolvendo o Frontend com React.js e TypeScript
+    - Construindo o Backend com NestJS e/ou Spring Boot
+    - Integração Frontend e Backend
+    - Versionamento e Deploy com GitHub
