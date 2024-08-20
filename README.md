@@ -70,4 +70,4 @@ Bem-vindo ao curso completo de Lógica de Programação, Frontend e Backend! Est
     - Desenvolvendo o Frontend com React.js e TypeScript
     - Construindo o Backend com NestJS (BFF) e Spring Boot (API)
     - Integração Frontend e Backend
-    - (Bônus) Versionamento e Deploy com GitHub
+    - Versionamento e Deploy com GitHub
