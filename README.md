@@ -1,6 +1,6 @@
 # Curso Completo de Lógica de Programação, Frontend e Backend
 
-Bem-vindo ao curso completo de Lógica de Programação, Frontend e Backend! Este curso é voltado para iniciantes, ou seja, para pessoas que estão tendo seu primeiro contato com o mundo da programação. Nosso objetivo é conduzi-lo passo a passo, desde os conceitos básicos até a construção de aplicações web completas.
+Bem-vindo ao curso completo de Lógica de Programação, Frontend e Backend! Este curso é projetado para iniciantes, guiando você desde os conceitos básicos até a construção de aplicações web completas.
 
 ## Sumário
 
@@ -66,8 +66,8 @@ Bem-vindo ao curso completo de Lógica de Programação, Frontend e Backend! Est
    - Exemplos de Implementações de BFF
 
 ### 10. [Projeto Final - Desenvolvendo uma Aplicação Web Completa](https://github.com/DanielFullStack/curso-programador-iniciante/blob/main/10.%20Projeto%20Final%20-%20Desenvolvendo%20uma%20Aplica%C3%A7%C3%A3o%20Web%20Completa.md)
-    - Definição do Projeto
-    - Desenvolvendo o Frontend com React.js e TypeScript
-    - Construindo o Backend com NestJS (BFF) e Spring Boot (API)
-    - Integração Frontend e Backend
-    - Versionamento e Deploy com GitHub
+   - Definição do Projeto
+   - Desenvolvendo o Frontend com React.js e TypeScript
+   - Construindo o Backend com NestJS (BFF) e Spring Boot (API)
+   - Integração Frontend e Backend
+   - Versionamento e Deploy com GitHub
