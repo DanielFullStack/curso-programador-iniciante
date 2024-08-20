@@ -73,7 +73,7 @@ Bem-vindo ao curso completo de Lógica de Programação, Frontend e Backend! Est
    - Versionamento e Deploy com GitHub
 
 ---
-Competências:
+### Competências
 
 Compreensão, Algoritmos, Tipagem, Condicionais, Funções, Web, Ferramentas, JavaScript, TypeScript, Integração, Componentes, Hooks, Estado, Roteamento, APIs, Banco de Dados, Autenticação, Testes, Spring, JPA, Segurança, Deploy, Git, Branches, Colaboração, Configuração, Debugging, Snippets, BFF, Integração, Projeto, Frontend, Backend, Deploy.
 ---
